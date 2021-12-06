@@ -3,3 +3,4 @@
 * A simple Logistic Regression based prediction model that calculates 
 the winning probability in percentage for the chasing 
 team provided information on playing teams, target, overs, etc.
+* Deployment on Heroku https://ipl-match-predictor-app.herokuapp.com/
